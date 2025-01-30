@@ -19,7 +19,7 @@ TECH STACK:
   ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
 ```
-  git 
+  git clone https://github.com/Shashank0403/STOCK-PRICE-PREDICTION.git
 ```
 
 **STEP 2:** Change the directory to the repository.
