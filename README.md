@@ -54,4 +54,24 @@ TECH STACK:
   python manage.py runserver
 ```
 
+### WEB-APP SCREENSHOTS
+Home Page: Displays real-time stock price data.
+![image](https://github.com/user-attachments/assets/3b1e8dbf-0935-4559-bcd8-8ce3d12d4a87)
+
+Stock Price Prediction Page: Enter a valid ticker symbol and the number of days to predict future stock prices.
+![image](https://github.com/user-attachments/assets/cc152333-6606-4194-9156-5d568aabf1e6)
+
+Predicted Stock Price Display: Shows the predicted stock price along with ticker details and generates a QR code for viewing the result.
+![image](https://github.com/user-attachments/assets/c57f2564-5f54-4702-8a53-338c6661f133)
+
+Stock Price Comparison: The left graph displays real-time stock prices for the past day, while the right graph shows the predicted prices.
+![image](https://github.com/user-attachments/assets/9c1b7228-11ec-4e08-8117-26b601bc60aa)
+
+Ticker Information Page: Lists all valid ticker symbols accepted by the application.
+![image](https://github.com/user-attachments/assets/d4bc7092-0151-4632-8192-ad1e390d06e2)
+
+
+
+
+
 
