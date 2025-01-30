@@ -1,4 +1,4 @@
-STOCK PRICE PREDICTION WEB APPLICATION
+### STOCK PRICE PREDICTION WEB APPLICATION
 
 TECH STACK:
 
@@ -19,7 +19,7 @@ TECH STACK:
   ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
 ```
-  git clone https://github.com/Shashank0403/STOCK-PRICE-PREDICTION.git
+  git clone git@github.com:Shashank0403/STOCK-PRICE-PREDICTION-WEB-APP.git
 ```
 
 **STEP 2:** Change the directory to the repository.
